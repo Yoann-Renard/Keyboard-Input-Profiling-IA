@@ -1,7 +1,6 @@
 from pynput import keyboard
 from modules.Timer import *
 from modules.Logging import *
-from modules.Utils import *
 
 chain_buffer = []
 intervals_buffer = []
